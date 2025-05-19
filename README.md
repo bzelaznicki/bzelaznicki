@@ -12,7 +12,7 @@ I'm a full-stack developer and Senior Customer Solutions Architect with a passio
 ## 🔧 Projects
 
 ### [bzCommerce](https://github.com/bzelaznicki/bzCommerce)
-A custom eCommerce platform built with **Go**, **TypeScript**, and **PostgreSQL**.  
+A custom eCommerce platform built with **Go** and **PostgreSQL**.  
 It includes product and variant management, nested categories, admin tools, cart sessions, and a cleanly structured frontend.  
 Focused on performance, modularity, and developer-first design—think PrestaShop or Magento, reimagined in Go.
 

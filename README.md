@@ -21,7 +21,7 @@ Includes product and variant management, nested categories, cart sessions, admin
 An AI-powered multi-tenant support ticketing SaaS built with **Next.js** and **Supabase**.  
 Targeting startups that want smarter support workflows without the enterprise price tag. Integrates LLM features for triage, response suggestions, and categorisation.
 
-### bzBuzz *(in development)*
+### [bzBuzz](https://github.com/bzelaznicki/bzBuzz) *(in development)*
 A Reddit-style community and feed platform built with **Java** and **Spring Boot**.  
 A fun side project for going deep on the JVM ecosystem and service-oriented architecture.
 

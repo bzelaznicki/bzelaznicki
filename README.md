@@ -18,7 +18,7 @@ A full eCommerce platform built with **Go**, **TypeScript**, and **PostgreSQL**.
 Includes product and variant management, nested categories, cart sessions, admin tools, and a clean frontend — think PrestaShop reimagined in Go.
 
 ### bzSupport *(in development)*
-An AI-powered multi-tenant support ticketing SaaS built with **Next.js** and **Supabase**.  
+An AI-powered multi-tenant support ticketing SaaS built with **Next.js** and **PostgreSQL**.  
 Targeting startups that want smarter support workflows without the enterprise price tag. Integrates LLM features for triage, response suggestions, and categorisation.
 
 ### [bzBuzz](https://github.com/bzelaznicki/bzBuzz) *(in development)*

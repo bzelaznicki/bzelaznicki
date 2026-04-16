@@ -25,6 +25,10 @@ Targeting startups that want smarter support workflows without the enterprise pr
 A Reddit-style community and feed platform built with **Java** and **Spring Boot**.  
 A fun side project for going deep on the JVM ecosystem and service-oriented architecture.
 
+### [bzFlags](https://github.com/bzelaznicki/bzFlags) *(in development)*
+A simple feature flag management application built using **Django**.
+A fun side project with staged rollouts and an SDK.
+
 ---
 
 ## 📜 Certifications & Learning
